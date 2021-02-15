@@ -1,7 +1,7 @@
 
 ## Latency and Fault Tolerance for Distributed System
 
-![hystrix-image](<url> "Configuring Hystrix for effective Fault Tolerance")
+![hystrix-image](https://miro.medium.com/max/1400/1*DY6RHP6Z1V3bpA8G_EIGxw.jpeg "Configuring Hystrix for effective Fault Tolerance")
 
 ## What is Hystrix?
 Hystrix is designed to do the following:
@@ -15,5 +15,5 @@ In simple terms, it isolates external dependencies so that one may not affect th
 
 **With great decentralization comes a great need of resilient fault tolerance. As Netflix says, fault tolerance is not a feature, it's a requirement.**
 
-Refer to the [Latency and Fault Tolerance for Distributed System - Configuring Hystrix for effective Fault Tolerance](<url>) for details.
+Refer to the [Latency and Fault Tolerance for Distributed System - Configuring Hystrix for effective Fault Tolerance](https://nataraj-srikantaiah.medium.com/latency-and-fault-tolerance-for-distributed-system-2c6d3213e439) for details.
 
